@@ -58,9 +58,9 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 
 ### 多客户端验证使用环节
 #### 客户端下载
-V2Ray-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/releases)
-安卓：[V2RayNG](https://github.com/2dust/v2rayNG)
-苹果MAC OS：[V2RayU下载](https://github.com/yanue/V2rayU/releases)
+##### V2Ray-windows客户端：[v2rayN下载](https://github.com/2dust/v2rayN/releases)
+##### 安卓：[V2RayNG](https://github.com/2dust/v2rayNG)
+##### 苹果MAC OS：[V2RayU下载](https://github.com/yanue/V2rayU/releases)
 IOS：App Store中，登录非国区账号，安装Shadowrocket小火箭（推荐，协议支持全面、便宜）
 不管是iPad平板还是iPhone手机，比较推荐的科学上网软件必定是：Shadowrocket，但是需要注册一个非国区或美区账号才能进行购买，目前是2.99美刀约20块人民币，注册美区账号和充值购买也非常简单，请参考以下两篇文章。
 如何注册美区Apple ID:https://zhuanlan.zhihu.com/p/635054054
