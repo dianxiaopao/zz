@@ -15,14 +15,14 @@ IP若开机就被墙的，购后的72小时内支持免费更换一次,72小时�
 #### 域名购买、托管到CloudFlare
 
 域名注册、购买，推荐使用namesilo，免费的whois隐私保护！
-NameSilo官网（域名）： [namesilo官网](https://www.namesilo.com)
-PING工具：[ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)
-CloudFlare(套CDN)[：CF官网](https://www.cloudflare.com/zh-cn/)
+- NameSilo官网（域名）： [namesilo官网](https://www.namesilo.com)
+- PING工具：[ping工具（检测解析域名是否生效）](https://ping.chinaz.com/)
+- CloudFlare(套CDN)[：CF官网](https://www.cloudflare.com/zh-cn/)
 
 #### SSH 链接工具
   任选其中一个即可
-  putty(非常小巧)：[putty](https://putty.org/)
-  FinalShell(全平台):[FinalShell下载](https://www.hostbuf.com/t/988.html)
+ - putty(非常小巧)：[putty](https://putty.org/)
+ - FinalShell(全平台):[FinalShell下载](https://www.hostbuf.com/t/988.html)
 
 ### 部署环节
  安装V2Ray 以Ubuntu 20+ 为例,centos 慎用
